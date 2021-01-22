@@ -2,8 +2,8 @@
 ### Improve your´VRED collaboration VRED Streaming
 ### Take a look on how to customize streaming
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iLiqdhMNMyY/0.jpg)](https://www.youtube.com/watch?v=iLiqdhMNMyY)
 
-https://youtu.be/iLiqdhMNMyY
 
 ![](images/VRED-VR-drawLines.gif)
 
