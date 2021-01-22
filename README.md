@@ -1,11 +1,10 @@
 # Streaming in VRED
 ### Improve your´VRED collaboration VRED Streaming
-### Take a look on how to customize streaming
+
+### Merge mulitple Streams in one Browser window
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iLiqdhMNMyY/0.jpg)](https://www.youtube.com/watch?v=iLiqdhMNMyY)
 
-
-![](images/VRED-VR-drawLines.gif)
 
 <br>
 
